@@ -1,3 +1,5 @@
+![Dashboard Preview](screenshots/Home_Page.png)
+
 # BI-analytics-pet-project
 
 # 🧭 Sales Analytics Dashboard (Power BI)
