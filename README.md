@@ -1,4 +1,4 @@
-![Dashboard Preview](screenshots/Home_Page.png)
+![Dashboard Preview](screenshots/main_page.png)
 
 # BI-analytics-pet-project
 
