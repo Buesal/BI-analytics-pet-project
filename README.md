@@ -1,4 +1,4 @@
-![Dashboard Preview](screenshots/Main_page.png)
+📘 [View DAX Measures](DAX_Measures.md)
 
 # BI-analytics-pet-project
 
