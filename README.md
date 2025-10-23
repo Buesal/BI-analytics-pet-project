@@ -1,5 +1,8 @@
 📘 [View DAX Measures](DAX_Measures.md)
 
+![Dashboard Preview](screenshots/Country.png)
+
+
 # BI-analytics-pet-project
 
 # 🧭 Sales Analytics Dashboard (Power BI)
